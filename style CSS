@@ -1,0 +1,11 @@
+*{
+   padding: 0;
+   margin: 0;
+   font-family: sans-serif;
+   box-sizing: border-box; 
+}
+.hero {
+    width: 100%;
+    height: 100vh;
+    background: linear-gradient(rgba(219, 81, 17, 0.7), rgba(219, 81, 17, 0.7)), url(laptop2.jpg);
+}
